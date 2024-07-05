@@ -10,3 +10,4 @@
 • Coding Languages: Python, JavaScript, Java, C# (in progress)
 • Technologies: Django, .NET (in progress)
 
+https://raw.githubusercontent.com/dimtsagk/dimtsagk/main/jslogo.png
