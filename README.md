@@ -1,7 +1,7 @@
 ## Hi, I'm Dimitris (or Jimmy)👋
 
 - 🔭 I’m currently working on Python and JavaScript projects.
-- 🌱 I’m currently learning Django and React.
+- 🌱 I’m currently learning Django, React and Power BI.
 - 📫 How to reach me: [LinkedIn] https://www.linkedin.com/in/dimitrios-k-tsagkaris/
 - ⚡ Fun facts: I love tech, gaming, cars and airplanes.
 
