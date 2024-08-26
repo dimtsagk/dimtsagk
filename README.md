@@ -8,7 +8,7 @@
 ## Skills
 
 - Coding Languages: Python, JavaScript, SQL, Java.
-- Technologies: Django, WordPress (WooCommerce)
+- Technologies: Django, WordPress (WooCommerce), Linux
 
 ![jslogo (1)](https://github.com/dimtsagk/dimtsagk/assets/49439009/47caf53e-8028-4cff-a45a-75b6dd7fcf2d)
 ![Python-Symbol (1)](https://github.com/dimtsagk/dimtsagk/assets/49439009/460c5bb8-d0aa-4dd6-991e-5b3e89b22882)
